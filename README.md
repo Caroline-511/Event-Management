@@ -21,11 +21,11 @@ It can also assist user to concentrate on their other activities.<br/>
 -> Scalabity of an event <br/>
 -> User profile with edit option <br/>
 
-<b>Front End Technology<br/>
--> HTML5
--> CSS
--> Javascript
--> Bootstrap
+<b>Front End Technology</b><br/>
+-> HTML5<br/>
+-> CSS<br/>
+-> Javascript<br/>
+-> Bootstrap<br/>
 
-<b>Back End Technology<br/>
+<b>Back End Technology</b><br/>
 -> PHP (Wamp Server)
